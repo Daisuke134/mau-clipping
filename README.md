@@ -1,7 +1,7 @@
 # mau-clipping
 
 > Viral YouTube Shorts hook + CTA stitching for TikTok + IG + YT, end-to-end automated.
-> Inspired by [@maboroshi_app](https://www.tiktok.com/@maboroshi.app) — "clone proven viral content" philosophy.
+> Inspired by [@maubaron](https://x.com/maubaron/status/2030716132093460742) — "clone proven viral content" philosophy.
 
 ## What it does
 
@@ -68,7 +68,7 @@ post-to-postiz.js
 
 ## Inspiration + credits
 
-- @maboroshi_app — the "clone proven viral content" philosophy
+- [@maubaron](https://x.com/maubaron/status/2030716132093460742) — the "clone proven viral content" philosophy
 - Daisuke134/mau-tiktok — original Anicca runtime skill (YT-only variant)
 
 ## License

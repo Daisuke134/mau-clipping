@@ -1,6 +1,6 @@
 ---
 name: mau-clipping
-description: "Viral YouTube Shorts hook + CTA stitching for TikTok + IG + YT. Scrapes top hooks from maboroshi-style source videos, trims to 15-59s, stitches a CTA overlay, uploads to Postiz. POST_PLATFORMS env controls which platforms receive posts."
+description: "Viral YouTube Shorts hook + CTA stitching for TikTok + IG + YT. Scrapes top hooks from source channels, trims to 3s, stitches a CTA overlay (= the Mau Baron method on YouTube), uploads to Postiz. POST_PLATFORMS env controls which platforms receive posts."
 homepage: https://github.com/Daisuke134/mau-clipping
 metadata:
   tags: tiktok, instagram, youtube, shorts, clipping, postiz, automation, mau, viral
