@@ -1,0 +1,9 @@
+.env
+hooks/
+output/
+workspace/
+*.mp4
+*.mp3
+*.log
+.DS_Store
+__pycache__/
